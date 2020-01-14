@@ -1,7 +1,7 @@
 package test;
 
 public class TestClass{
-    public void static main (Stirng[] argd){
-        System.out.println("Hello world");
+    public static void main (Stirng[] args){
+        System.out.println("Hello world!");
     }
 }
